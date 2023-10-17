@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Haziq</h1>
 <h3>42 Malaysia - Sunway Education Group <br/>Competent in Computer Science <br/>Level 4 out of 9 (Core Programme)</h3>
 
-- 🌱 I’m currently learning **Computer Science in 42 Kuala Lumpur**
+- 🌱 I’m currently learning **C,C++,Socket Programming,Algorithm,Python,HTML,CSS,JS**
 
 - 📫 How to reach me **iammuhamadhaziq@gmail.com**
 
